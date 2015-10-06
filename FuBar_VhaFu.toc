@@ -1,0 +1,15 @@
+## Interface: 11200
+## Name: FuBar - VanillaHealingAssignmentsFu
+## Title: FuBar - |cffffffffVha|r|cff00ff00Fu|r
+## Notes: A FuBar button to load Vanilla Healing Assignments.
+## Version: 1.0
+## X-Category: Raid
+## X-Date: 2015-08-31
+## X-Website: http://www.vanillagaming.org
+## Author: Renew
+## Dependencies: VanillaHealingAssignments, FuBar
+## SavedVariables: VanillaHealingAssignmentsFuDB
+## LoadOnDemand: 1
+libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
+libs\Tablet-2.0\Tablet-2.0.lua
+VanillaHealingAssignmentsFu.lua
